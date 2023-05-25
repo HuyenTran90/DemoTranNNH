@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13671" started-at="2023-03-21T19:01:20 ICT" finished-at="2023-03-21T19:01:34 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13671" started-at="2023-03-21T19:01:20 ICT" finished-at="2023-03-21T19:01:34 ICT">
+      <class name="testLoginPage.NewTestLoginPage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeTest" is-config="true" duration-ms="9072" started-at="2023-03-21T19:01:20 ICT" finished-at="2023-03-21T19:01:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="115" started-at="2023-03-21T19:01:29 ICT" finished-at="2023-03-21T19:01:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="lableTittle()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="lableTittle" duration-ms="65" started-at="2023-03-21T19:01:29 ICT" finished-at="2023-03-21T19:01:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lableTittle -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="96" started-at="2023-03-21T19:01:29 ICT" finished-at="2023-03-21T19:01:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_false_1()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_false_1" duration-ms="351" started-at="2023-03-21T19:01:29 ICT" finished-at="2023-03-21T19:01:30 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_false_1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="97" started-at="2023-03-21T19:01:30 ICT" finished-at="2023-03-21T19:01:30 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_false_2()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_false_2" duration-ms="357" started-at="2023-03-21T19:01:30 ICT" finished-at="2023-03-21T19:01:30 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_false_2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="121" started-at="2023-03-21T19:01:30 ICT" finished-at="2023-03-21T19:01:30 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_false_4()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_false_4" duration-ms="334" started-at="2023-03-21T19:01:30 ICT" finished-at="2023-03-21T19:01:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_false_4 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="112" started-at="2023-03-21T19:01:31 ICT" finished-at="2023-03-21T19:01:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_false_5()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_false_5" duration-ms="349" started-at="2023-03-21T19:01:31 ICT" finished-at="2023-03-21T19:01:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_false_5 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="116" started-at="2023-03-21T19:01:31 ICT" finished-at="2023-03-21T19:01:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_lockout()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_lockout" duration-ms="537" started-at="2023-03-21T19:01:31 ICT" finished-at="2023-03-21T19:01:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_lockout -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="158" started-at="2023-03-21T19:01:32 ICT" finished-at="2023-03-21T19:01:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_success()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_success" duration-ms="503" started-at="2023-03-21T19:01:32 ICT" finished-at="2023-03-21T19:01:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_success -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="beforeMethod" is-config="true" duration-ms="71" started-at="2023-03-21T19:01:32 ICT" finished-at="2023-03-21T19:01:32 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_login_false_3()[pri:1, instance:testLoginPage.NewTestLoginPage@6950e31]" name="test_login_false_3" duration-ms="296" started-at="2023-03-21T19:01:32 ICT" finished-at="2023-03-21T19:01:33 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_false_3 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testLoginPage.NewTestLoginPage@6950e31]" name="afterTest" is-config="true" duration-ms="857" started-at="2023-03-21T19:01:33 ICT" finished-at="2023-03-21T19:01:34 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testLoginPage.NewTestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Login Function" skipped="0" tests="7" time="86.52" timestamp="2023-05-24 08:44:15"><testcase name="Confirm user can login successfully with valid username and valid password"><error message="Timed out after 10 seconds. Element not found&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: driver.version: unknown</error><system-err>Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
+Driver info: driver.version: unknown&#13;
+demoblazeRunPage.LoginDemoblaze.getNameOfUser(LoginDemoblaze.java:53)&#13;
+step_cucumberLogin.LoginScenarioSteps.get_name_of_user(LoginScenarioSteps.java:26)&#13;
+step_cucumberLogin.LogInSteps.confirmNameOfUser(LogInSteps.java:38)&#13;
+✽.Confirm name of user "Welcome Huyen Tran"(file:///D:/download/ân/CaseStudySelenium_TranNNH/src/test/resources/feature/login.feature:7)&#13;
+</system-err></testcase><testcase name="Confirm user can not login with valid username but password is not filled in."/><testcase name="Confirm user can not login successfully with valid username and invalid password"/><testcase name="Confirm user can not login successfully with username is not filled in and password is filled in."/><testcase name="Confirm user can not login successfully when the user is not registered"/><testcase name="Confirm user can not login successefully when username and password are not filled in."/><testcase name="Confirm user can close login screen when clicking on the close button."/></testsuite>

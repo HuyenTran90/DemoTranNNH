@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Sign up Function","Confirm user can not sign up successfully.","SUCCESS","2023-05-24T20:46:00.076+07:00[Asia/Bangkok]","0.0","53.35"
+"Sign up Function","Confirm user can not sign up successfully when username already exist and password is filled in.","SUCCESS","2023-05-24T20:46:53.442+07:00[Asia/Bangkok]","0.0","17.44"
+"Sign up Function","Confirm user can close sign up dialog when clicking on the close button.","SUCCESS","2023-05-24T20:47:10.893+07:00[Asia/Bangkok]","0.0","3.92"

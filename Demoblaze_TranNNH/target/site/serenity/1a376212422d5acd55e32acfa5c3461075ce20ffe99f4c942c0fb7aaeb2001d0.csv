@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Function","Confirm user can login successfully with valid username and valid password","ERROR","2023-05-24T20:44:15.591+07:00[Asia/Bangkok]","0.0","22.21"
+"Login Function","Confirm user can not login with valid username but password is not filled in.","SUCCESS","2023-05-24T20:44:37.812+07:00[Asia/Bangkok]","0.0","12.2"
+"Login Function","Confirm user can not login successfully with valid username and invalid password","SUCCESS","2023-05-24T20:44:50.015+07:00[Asia/Bangkok]","0.0","11.93"
+"Login Function","Confirm user can not login successfully with username is not filled in and password is filled in.","SUCCESS","2023-05-24T20:45:01.955+07:00[Asia/Bangkok]","0.0","12.01"
+"Login Function","Confirm user can not login successfully when the user is not registered","SUCCESS","2023-05-24T20:45:13.972+07:00[Asia/Bangkok]","0.0","11.69"
+"Login Function","Confirm user can not login successefully when username and password are not filled in.","SUCCESS","2023-05-24T20:45:25.679+07:00[Asia/Bangkok]","0.0","12.48"

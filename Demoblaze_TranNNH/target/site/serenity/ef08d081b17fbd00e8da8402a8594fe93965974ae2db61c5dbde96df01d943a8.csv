@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Contact Function","Confirm user can send massage with email, name and message are filled in.","SUCCESS","2023-05-24T20:40:38.977+07:00[Asia/Bangkok]","0.0","17.59"
+"Contact Function","Confirm user can not send massage when entering invalid format of email.","FAILURE","2023-05-24T20:40:56.595+07:00[Asia/Bangkok]","0.0","14.56"
+"Contact Function","Confirm user can not send massage when email is left blank.","FAILURE","2023-05-24T20:41:11.171+07:00[Asia/Bangkok]","0.0","13.97"
+"Contact Function","Confirm user can not send massage when name is left blank.","FAILURE","2023-05-24T20:41:25.153+07:00[Asia/Bangkok]","0.0","12.94"
+"Contact Function","Confirm user can not send massage when message is left blank.","FAILURE","2023-05-24T20:41:38.096+07:00[Asia/Bangkok]","0.0","13.67"

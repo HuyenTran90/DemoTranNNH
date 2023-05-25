@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Place order Function" skipped="0" tests="5" time="147.94" timestamp="2023-05-24 08:49:56"><testcase name="Confirm user can purchase successfully."/><testcase name="Confirm user can not place order."/><testcase name="Confirm user can go back home page when click ok."/></testsuite>
